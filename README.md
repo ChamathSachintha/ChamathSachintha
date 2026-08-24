@@ -207,14 +207,6 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ChamathSachintha&theme=tokyonight&hide_border=true&background=10141E" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/ChamathSachintha/ChamathSachintha/snake-output/snake.svg" width="100%" alt="Snake Animation" />
 
 </div>
