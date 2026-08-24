@@ -199,7 +199,7 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamathSachintha&layout=compact&theme=tokyonight&hide_border=true&bg_color=10141E" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/ChamathSachintha/ChamathSachintha/languages-output/languages.svg" alt="Top Languages" />
 
 </div>
 
