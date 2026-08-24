@@ -227,7 +227,7 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 
 <div align="center">
 
-<h2>Let's build something cool together. 🚀</h2>
+<h2>Let's build something cool together.</h2>
 
 <p>
 <a href="https://github.com/ChamathSachintha"><img src="https://img.shields.io/badge/GitHub-10111C?style=flat-square&logo=github&logoColor=F7F5FA" alt="GitHub"></a>
