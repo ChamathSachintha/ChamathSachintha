@@ -140,12 +140,12 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 <!-- TOOLKIT                                                   -->
 <!-- ========================================================= -->
 
-## The toolkit
+## ✦ The toolkit
 
 <div align="center">
 
 <sub>
-The technologies, tools, and creative software I use to turn ideas into working products.
+Languages, frameworks, platforms and creative tools I work with.
 </sub>
 
 </div>
@@ -155,67 +155,162 @@ The technologies, tools, and creative software I use to turn ideas into working 
 <table>
 <tr>
 
-<!-- CORE ENGINEERING -->
+<!-- LANGUAGES -->
 <td width="33%" valign="top" bgcolor="#10141E">
 
-### Frontend & Core
+### ⌘ Languages
 
 <br>
 
-<img src="https://img.shields.io/badge/TypeScript-151827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-151827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-151827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-151827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind-151827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Java-151827?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/Python-151827?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/TypeScript-151827?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-151827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-151827?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/C++-151827?style=flat-square&logo=cplusplus&logoColor=00599C" />
 
 <br><br>
 
-<sub>
-UI architecture · State management · Component design
-</sub>
-
+<sub>Programming · OOP · Logic</sub>
 </td>
 
-<!-- BACKEND & DATA -->
+<!-- FRONTEND -->
 <td width="33%" valign="top" bgcolor="#10141E">
 
-### Backend & Data
+### ◈ Frontend
 
 <br>
 
-<img src="https://img.shields.io/badge/Laravel_12-151827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/PHP_8+-151827?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Python-151827?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/PostgreSQL-151827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MySQL-151827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/React-151827?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-151827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Tailwind-151827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/HTML5-151827?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-151827?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/jQuery-151827?style=flat-square&logo=jquery&logoColor=0769AD" />
 
 <br><br>
 
-<sub>
-REST APIs · Relational design · Server-side logic
-</sub>
-
+<sub>Responsive UI · Web Interfaces</sub>
 </td>
 
-<!-- CREATIVE & TOOLS -->
+<!-- BACKEND -->
 <td width="33%" valign="top" bgcolor="#10141E">
 
-### Creative & Tools
+### ⚙ Backend
 
 <br>
 
-<img src="https://img.shields.io/badge/Figma-151827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Photoshop-151827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Illustrator-151827?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-<img src="https://img.shields.io/badge/After_Effects-151827?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-<img src="https://img.shields.io/badge/Git-151827?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Laravel_12-151827?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/PHP_8+-151827?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/REST_API-151827?style=flat-square&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Sanctum-151827?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/JSON-151827?style=flat-square&logo=json&logoColor=FFFFFF" />
 
 <br><br>
 
-<sub>
-UI/UX prototyping · Visual design · Motion workflows
-</sub>
+<sub>Auth · APIs · Business Logic</sub>
+</td>
 
+</tr>
+
+<tr>
+
+<!-- DATABASES -->
+<td width="33%" valign="top" bgcolor="#10141E">
+
+### ◉ Data
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-151827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-151827?style=flat-square&logo=mysql&logoColor=4479A1" />
+
+<br><br>
+
+<sub>SQL · Relational Design</sub>
+</td>
+
+<!-- MOBILE -->
+<td width="33%" valign="top" bgcolor="#10141E">
+
+### ▣ Mobile
+
+<br>
+
+<img src="https://img.shields.io/badge/Android-151827?style=flat-square&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Java-151827?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+
+<br><br>
+
+<sub>Mobile Apps · Android Studio</sub>
+</td>
+
+<!-- ENVIRONMENT -->
+<td width="33%" valign="top" bgcolor="#10141E">
+
+### ⌁ Environment
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-151827?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Linux-151827?style=flat-square&logo=linux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-151827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/NetBeans-151827?style=flat-square&logo=apache-netbeans-ide&logoColor=1B6AC6" />
+
+<br><br>
+
+<sub>Version Control · Terminals</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<!-- UI/UX -->
+<td width="33%" valign="top" bgcolor="#10141E">
+
+### ✦ UI / UX
+
+<br>
+
+<img src="https://img.shields.io/badge/Figma-151827?style=flat-square&logo=figma&logoColor=F24E1E" />
+
+<br><br>
+
+<sub>Prototyping · Visual Systems</sub>
+</td>
+
+<!-- CREATIVE -->
+<td width="33%" valign="top" bgcolor="#10141E">
+
+### ◌ Creative
+
+<br>
+
+<img src="https://img.shields.io/badge/Photoshop-151827?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/Illustrator-151827?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+<img src="https://img.shields.io/badge/After_Effects-151827?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/Premiere_Pro-151827?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
+
+<br><br>
+
+<sub>Motion · Video · Branding</sub>
+</td>
+
+<!-- ARCHITECTURE -->
+<td width="33%" valign="top" bgcolor="#10141E">
+
+### ⌁ Architecture
+
+<br>
+
+<img src="https://img.shields.io/badge/REST-151827?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-151827?style=flat-square" />
+<img src="https://img.shields.io/badge/MVC-151827?style=flat-square" />
+
+<br><br>
+
+<sub>System Design · Patterns</sub>
 </td>
 
 </tr>
