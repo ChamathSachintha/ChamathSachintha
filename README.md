@@ -199,10 +199,6 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathSachintha&theme=tokyonight&hide_border=true&background=10141E" alt="GitHub Streak" />
-
-<br>
-
 <img src="https://raw.githubusercontent.com/ChamathSachintha/ChamathSachintha/languages-output/languages.svg" alt="Top Languages" />
 
 </div>
@@ -211,7 +207,7 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathSachintha&theme=tokyonight&hide_border=true&background=10141E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ChamathSachintha&theme=tokyonight&hide_border=true&background=10141E" alt="GitHub Streak" />
 
 </div>
 
