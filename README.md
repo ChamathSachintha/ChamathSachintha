@@ -3,9 +3,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
-<img src="./assets/My Video.gif" width="100%" alt="Chamath Sachintha Banner">
-
+  <video src="./assets/banner.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 <br>
