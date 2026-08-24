@@ -199,7 +199,7 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChamathSachintha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10141E&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChamathSachintha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10141E" alt="GitHub Stats" />
 <img src="https://raw.githubusercontent.com/ChamathSachintha/ChamathSachintha/languages-output/languages.svg" alt="Top Languages" />
 
 </div>
