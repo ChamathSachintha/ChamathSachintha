@@ -38,7 +38,7 @@
 <!-- ABOUT                                                     -->
 <!-- ========================================================= -->
 
-## ✦ A bit about me
+## A bit about me
 
 I'm a Computer Science undergrad floating somewhere in the sweet spot between **clean code and thoughtful design**. I build full-stack web apps, play around with product concepts, and break things just to figure out how to put them back together better. 
 
@@ -58,7 +58,7 @@ When I’m not knee-deep in a Next.js or Laravel codebase, you'll probably find 
 <!-- SELECTED WORK                                            -->
 <!-- ========================================================= -->
 
-## ✦ Selected work
+## Selected work
 
 <table>
 <tr>
@@ -137,45 +137,70 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 <br>
 
 <!-- ========================================================= -->
-<!-- TOOLKIT                                                   -->
+<!-- TOOLKIT                                                   -->
 <!-- ========================================================= -->
 
-## ✦ The toolkit
+## The toolkit
+
+<div align="center">
+
+<sub>
+The technologies, tools, and creative software I use to turn ideas into working products.
+</sub>
+
+</div>
+
+<br>
 
 <table>
 <tr>
 
+<!-- CORE ENGINEERING -->
 <td width="33%" valign="top" bgcolor="#10141E">
 
-### ⌘ Stack
+### Frontend & Core
 
 <br>
 
 <img src="https://img.shields.io/badge/TypeScript-151827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-151827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-151827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-151827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Laravel-151827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/Python-151827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Tailwind-151827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+
+<br><br>
+
+<sub>
+UI architecture · State management · Component design
+</sub>
 
 </td>
 
+<!-- BACKEND & DATA -->
 <td width="33%" valign="top" bgcolor="#10141E">
 
-### ◉ Data & Tools
+### Backend & Data
 
 <br>
 
+<img src="https://img.shields.io/badge/Laravel_12-151827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/PHP_8+-151827?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Python-151827?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/PostgreSQL-151827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/MySQL-151827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Git-151827?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Linux-151827?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-151827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+
+<br><br>
+
+<sub>
+REST APIs · Relational design · Server-side logic
+</sub>
 
 </td>
 
+<!-- CREATIVE & TOOLS -->
 <td width="33%" valign="top" bgcolor="#10141E">
 
-### ✦ Creative
+### Creative & Tools
 
 <br>
 
@@ -183,19 +208,23 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 <img src="https://img.shields.io/badge/Photoshop-151827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 <img src="https://img.shields.io/badge/Illustrator-151827?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
 <img src="https://img.shields.io/badge/After_Effects-151827?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/Git-151827?style=for-the-badge&logo=git&logoColor=F05032" />
+
+<br><br>
+
+<sub>
+UI/UX prototyping · Visual design · Motion workflows
+</sub>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
 <!-- ========================================================= -->
 <!-- GITHUB STATS & ANIMATION                                  -->
 <!-- ========================================================= -->
 
-## ✦ GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
