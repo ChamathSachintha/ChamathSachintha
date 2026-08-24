@@ -140,63 +140,7 @@ Handled product marketing campaigns, visual branding guidelines, and promotional
 <!-- TOOLKIT                                                   -->
 <!-- ========================================================= -->
 
-## ✦ The toolkit
-
-<div align="center">
-
-<sub>
-Languages, frameworks, platforms and creative tools I work with.
-</sub>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<!-- LANGUAGES -->
-<td width="33%" valign="top" bgcolor="#10141E">
-
-### ⌘ Languages
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-151827?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/Python-151827?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/TypeScript-151827?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-151827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-151827?style=flat-square&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/C++-151827?style=flat-square&logo=cplusplus&logoColor=00599C" />
-
-<br><br>
-
-<sub>Programming · OOP · Logic</sub>
-</td>
-
-<!-- FRONTEND -->
-<td width="33%" valign="top" bgcolor="#10141E">
-
-### ◈ Frontend
-
-<br>
-
-<img src="https://img.shields.io/badge/React-151827?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-151827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind-151827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/HTML5-151827?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-151827?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/jQuery-151827?style=flat-square&logo=jquery&logoColor=0769AD" />
-
-<br><br>
-
-<sub>Responsive UI · Web Interfaces</sub>
-</td>
-<!-- ========================================================= -->
-<!-- TOOLKIT                                                   -->
-<!-- ========================================================= -->
-
-## ✦ The toolkit
+## The toolkit
 
 <div align="center">
 
