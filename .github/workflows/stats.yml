@@ -11,6 +11,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    
+    # ── THIS IS THE FIX ──
     permissions:
       contents: write
 
