@@ -206,7 +206,7 @@ Languages, frameworks, platforms and creative tools I work with.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ChamathSachintha/ChamathSachintha/streak-output/streak.svg" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathSachintha&theme=tokyonight&hide_border=true&background=10141E" alt="GitHub Streak" />
 
 </div>
 
